@@ -1,0 +1,1 @@
+Refatore a rota **GET** `/allocations` para utilizar joins encadeados no lugar de três queries.

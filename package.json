@@ -1,0 +1,19 @@
+{
+  "name": "hotel-hilbert",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "O Hotel de Hilbert não está indo muito bem. Mesmo suportando infinitos hóspedes, quase ninguém está se hospedando lá...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
