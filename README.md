@@ -1,1 +1,1 @@
-Refatore a rota **GET** `/allocations` para utilizar joins encadeados no lugar de três queries.
+Refatore a rota **GET** `/allocations` para possibilitar a paginação e ordenação a partir das query strings já pré estabelecidas
