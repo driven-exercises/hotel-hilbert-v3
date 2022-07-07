@@ -1,1 +1,7 @@
-{"slug":"hotel-hilbert-v2","scripts":{"test":"docker-compose -f ./.hub/docker-compose.test.yml --env-file .env up --build","setup":"docker-compose -f ./.hub/docker-compose.test.yml build"}}
+{
+    "slug": "hotel-hilbert-v4",
+    "scripts": {
+        "test": "docker-compose -f ./.hub/docker-compose.test.yml --env-file .env up --build",
+        "setup": "docker-compose -f ./.hub/docker-compose.test.yml build"
+    }
+}
