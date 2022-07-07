@@ -1,1 +1,1 @@
-Refatore a rota **GET** `/allocations` para possibilitar a paginação e ordenação a partir das query strings já pré estabelecidas
+Refatore a rota **GET** `/allocations` para possibilitar a paginação e ordenação a partir das query strings já pré estabelecidas.
